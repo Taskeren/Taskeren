@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there, nitu2003 a.k.a Taskeren here! 👋
+
+I'm nitu2003 aka Taskeren, a vocational high school student in Zhejiang, China. I'm interested in developing something interesting, but most of them are useless and badly coded.
+
+![](https://github-readme-stats.vercel.app/api?username=nitu2003&show_icons=true&theme=dracula)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nitu2003&layout=compact&theme=dracula)
 
 <!--
 **nitu2003/nitu2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
