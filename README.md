@@ -2,6 +2,8 @@
 
 I'm nitu2003 aka Taskeren, a vocational high school student in Zhejiang, China. I'm interested in developing something interesting, but most of them are useless and badly coded.
 
+我，Taskeren，是菜逼！喜欢整活，所以全是烂尾项目。喜欢玩 Minecraft，所以很多相关的项目。会 Java、Kotlin、JavaScript（网页），但是很菜。嗯嗯，所以请你 Follow 我（。
+
 ![](https://github-readme-stats.vercel.app/api?username=nitu2003&show_icons=true&theme=dracula)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nitu2003&layout=compact&theme=dracula)
