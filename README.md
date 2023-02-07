@@ -27,6 +27,7 @@ I'm nitu2003 aka Taskeren, a freshman in Zhejiang, China. I'm interested in deve
 
 - [MineQuery](https://github.com/Taskeren/mineQuery-1.17): A Fabric client Mod to improve experience in Survival Mode.
 - [ElytraMining](https://github.com/Taskeren/ElytraMining): A Forge Mod backports Hammer in ThermalFoundation to Minecraft 1.7.10.
+- [NotEnoughElements](https://github.com/ElytraServers/NotEnoughElements): An NEI addon adds chemical element search for GregTech supported items.
 - ~~[I18nUpdateModUno](https://github.com/ElytraServers/I18nUpdateModUno)~~: An unofficial version of [I18nUpdateMod2](https://github.com/CFPAOrg/I18nUpdateMod2), for now you should use [I18nUpdateMod3](https://github.com/CFPAOrg/I18nUpdateMod3).
 - ~~[Fire Protection Equipment](https://github.com/TeamRestricted/Fire-Protection-Equipment)~~: A deprecated Mod for TeaCon 2022.
 - [AE2SSD](https://github.com/TeamRestricted/AE2SSD): A Mod adds i/o count to disks of AppEng.
