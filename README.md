@@ -25,12 +25,13 @@ I'm nitu2003 aka Taskeren, a freshman in Zhejiang, China. I'm interested in deve
 
 ### Minecraft Related
 
-- [MineQuery](https://github.com/Taskeren/mineQuery-1.17): A Fabric client Mod to improve experience in Survival Mode.
-- [ElytraMining](https://github.com/Taskeren/ElytraMining): A Forge Mod backports Hammer in ThermalFoundation to Minecraft 1.7.10.
-- [NotEnoughElements](https://github.com/ElytraServers/NotEnoughElements): An NEI addon adds chemical element search for GregTech supported items.
-- ~~[I18nUpdateModUno](https://github.com/ElytraServers/I18nUpdateModUno)~~: An unofficial version of [I18nUpdateMod2](https://github.com/CFPAOrg/I18nUpdateMod2), for now you should use [I18nUpdateMod3](https://github.com/CFPAOrg/I18nUpdateMod3).
-- ~~[Fire Protection Equipment](https://github.com/TeamRestricted/Fire-Protection-Equipment)~~: A deprecated Mod for TeaCon 2022.
-- [AE2SSD](https://github.com/TeamRestricted/AE2SSD): A Mod adds i/o count to disks of AppEng.
+- [MineQuery(1.17+)](https://github.com/Taskeren/mineQuery-1.17)[(1.16)](https://github.com/Taskeren/mineQuery): A Fabric client Mod to improve experience in Survival Mode.
+- [ElytraMining(1.7.10)](https://github.com/Taskeren/ElytraMining): A Forge Mod backports Hammer in ThermalFoundation to Minecraft 1.7.10.
+- [NotEnoughElements(1.7.10)](https://github.com/ElytraServers/NotEnoughElements): An NEI Addon adds chemical element search for GregTech supported items.
+- [WeSavedEmptyCells(1.7.10)](https://github.com/ElytraServers/WeSavedEmptyCells): An IC2-Exp Addon adds a feature that returns the used cells. *Also contains a ExU Drum fix.*
+- ~~[I18nUpdateModUno(1.18.1)](https://github.com/ElytraServers/I18nUpdateModUno)~~: An unofficial version of [I18nUpdateMod2](https://github.com/CFPAOrg/I18nUpdateMod2), for now you should use [I18nUpdateMod3](https://github.com/CFPAOrg/I18nUpdateMod3).
+- ~~[Fire Protection Equipment(1.18.2)](https://github.com/TeamRestricted/Fire-Protection-Equipment)~~: A deprecated Mod for TeaCon 2022.
+- [AE2SSD(1.18.2)](https://github.com/TeamRestricted/AE2SSD): A Mod adds i/o count to disks of AppEng.
 
 ### Dynamite Related
 
@@ -52,4 +53,4 @@ _你说的对，但是 Dynamite 是一款由 TunerGames 开发的三面下落音
 ### Documents
 
 - [This Might be Useful for Mac Newbies](https://github.com/Taskeren/ThisMightBeUsefulForMacNewbies): Things about pitfalls using Mac to work and program. (Also contains Windows part, lol)
-- [ForK-GFW](https://github.com/Taskeren/ForK-GFW): FUCK GFW.
+- [ForK-GFW](https://github.com/Taskeren/ForK-GFW)[(website)](https://fuck-gfw.taske.ren): FUCK GFW.
