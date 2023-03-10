@@ -1,6 +1,6 @@
 # Taskeren
 
-I'm nitu2003 aka Taskeren, a freshman in Zhejiang, China. I'm interested in developing something interesting, but most of them are useless and badly coded.
+I'm nitu2003 aka Taskeren, a freshman in China. I'm interested in developing something interesting, but most of them are useless and badly coded.
 
 我，Taskeren，是菜逼！喜欢整活，所以全是烂尾项目。喜欢玩 Minecraft，所以很多相关的项目。会 Java、Kotlin、JavaScript（网页），但是很菜。嗯嗯，所以请你 Follow 我（。
 
