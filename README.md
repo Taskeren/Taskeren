@@ -47,6 +47,11 @@ _你说的对，但是 Dynamite 是一款由 TunerGames 开发的三面下落音
 - [BrigadierX](https://github.com/ElytraServers/BrigadierX): A Kotlin extension methods provider for [brigadier](https://github.com/Mojang/brigadier).
 - [ForgedVersion](https://github.com/Taskeren/ForgedVersion): A fork of Minecraft Forge Versioning System.
 
+### Misc
+
+- [Bungie OAuth Workers](https://github.com/Taskeren/bungie-oauth-workers): An out-of-box CloudFlare Workers to help with OAuth login on local testing environment.
+- [Verity Universal](https://github.com/Taskeren/verity-universal): A web application related to the Verity encounter of the Salvation's Edge in The Final Shape expansion of Destiny 2.
+
 ### GitHub Workflows
 
 - [SpigotBuildAction](https://github.com/Taskeren/SpigotBuildAction): A workflow to build and release Spigot artifact daily.
@@ -55,3 +60,4 @@ _你说的对，但是 Dynamite 是一款由 TunerGames 开发的三面下落音
 
 - [This Might be Useful for Mac Newbies](https://github.com/Taskeren/ThisMightBeUsefulForMacNewbies): Things about pitfalls using Mac to work and program. (Also contains Windows part, lol)
 - [ForK-GFW](https://github.com/Taskeren/ForK-GFW)[(website)](https://fuck-gfw.taske.ren): FUCK GFW.
+- [GTNH-Flowchart-CN](https://github.com/Taskeren/gtnh-flowchart-cn): Some flowcharts about GT: New Horizons recipe lines.
