@@ -25,14 +25,14 @@ I'm nitu2003 aka Taskeren, a freshman in China. I'm interested in developing som
 
 ### Minecraft Related
 
-- [MineQuery(1.17+)](https://github.com/Taskeren/mineQuery-1.17)[(1.16)](https://github.com/Taskeren/mineQuery): A Fabric client Mod to improve experience in Survival Mode.
+- [MineQuery(1.21+)](https://github.com/Taskeren/MineQuery) ~~[(1.17+)](https://github.com/Taskeren/mineQuery-1.17)~~ ~~[(1.16)](https://github.com/Taskeren/mineQuery-legacy)~~: A Fabric client Mod to improve experience in Survival Mode.
 - [ElytraMining(1.7.10)](https://github.com/Taskeren/ElytraMining): A Forge Mod backports Hammer in ThermalFoundation to Minecraft 1.7.10.
 - [GTNH-No-Nerf(1.7.10)](https://github.com/Taskeren/gtnh-no-nerf): A Mod for GregTech: New Horizons Modpack, to revert the changes.
 - [NotEnoughElements(1.7.10)](https://github.com/ElytraServers/NotEnoughElements): An NEI Addon adds chemical element search for GregTech supported items.
-- [WeSavedEmptyCells(1.7.10)](https://github.com/ElytraServers/WeSavedEmptyCells): An IC2-Exp Addon adds a feature that returns the used cells. *Also contains a ExU Drum fix.*
+- ~~[WeSavedEmptyCells(1.7.10)](https://github.com/ElytraServers/WeSavedEmptyCells)~~: An IC2-Exp Addon adds a feature that returns the used cells. *Also contains a ExU Drum fix.*
 - ~~[I18nUpdateModUno(1.18.1)](https://github.com/ElytraServers/I18nUpdateModUno)~~: An unofficial version of [I18nUpdateMod2](https://github.com/CFPAOrg/I18nUpdateMod2), for now you should use [I18nUpdateMod3](https://github.com/CFPAOrg/I18nUpdateMod3).
 - ~~[Fire Protection Equipment(1.18.2)](https://github.com/TeamRestricted/Fire-Protection-Equipment)~~: A deprecated Mod for TeaCon 2022.
-- [AE2SSD(1.18.2)](https://github.com/TeamRestricted/AE2SSD): A Mod adds i/o count to disks of AppEng.
+- ~~[AE2SSD(1.18.2)](https://github.com/TeamRestricted/AE2SSD)~~: A Mod adds i/o count to disks of AppEng.
 
 ### Dynamite Related
 
